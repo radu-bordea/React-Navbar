@@ -298,3 +298,10 @@ background: var(--primary-100);
 color: var(--primary-500);
 padding-left: 1.5rem;
 }
+
+/* 160px */
+
+.links-container {
+  overflow: hidden;
+  transition: var(--transition);
+}
